@@ -1,0 +1,22 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Main Life - Soccer Fan Site</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="The Main Life is your hub for soccer player facts, stories, and trivia. Stay updated and celebrate the world of football.">
+    <meta name="keywords" content="soccer, football, soccer facts, player facts, football trivia, the main life, sports news">
+    <meta name="author" content="The Main Life">
+
+    <!-- Open Graph (Social Media Preview) -->
+    <meta property="og:title" content="The Main Life - Soccer Fan Site">
+    <meta property="og:description" content="Discover amazing facts and stories about your favorite soccer players.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://theMainLife.com/">
+    <meta property="og:image" content="https://theMainLife.com/soccer-preview.jpg">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="favicon.png">
+
+    <link rel="stylesheet" href="style.css">
+</head>
